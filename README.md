@@ -8,4 +8,4 @@ The present modeling framework integrates dilute cohesive sediment transport and
 -	
 All input profiles must have identical dimensions and be discretized in .mat format. The framework's functionality is controlled by the Main.m file. 
 
-More details in Penaloza-Giraldo et al., (2024) https://doi.org/10.1016/j.advwatres.2024.104857
+More details in Penaloza-Giraldo et al., (2025) https://doi.org/10.1016/j.advwatres.2024.104857
