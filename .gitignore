@@ -1,0 +1,25 @@
+# MATLAB backup and temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB generated files and folders
+slprj/
+sccprj/
+codegen/
+*.mex*
+
+# MATLAB profiler and coverage outputs
+profile_results/
+coverage_results/
+
+# Generated model results
+fd_*/
+results/
+
+# Windows and macOS system files
+Thumbs.db
+.DS_Store
+
+# VS Code local settings
+.vscode/settings.json
